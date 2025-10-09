@@ -20,4 +20,8 @@ RUN if [ -f composer.json ]; then composer install --no-dev --optimize-autoloade
 
 EXPOSE 80
 
+RUN chmod -R 775 storage bootstrap/cache \
+    && chown -R www-data:www-data storage bootstrap/cache
+
+
 CMD ["apache2-foreground"]
