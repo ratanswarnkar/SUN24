@@ -23,4 +23,7 @@ class SolarController extends Controller
     public function contactUs(){
         return view('contact_us');
     }
+    public function products(){
+        return view('products');
+    }
 }
