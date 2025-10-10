@@ -410,6 +410,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 <!-- <li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-14799" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14799 nav-item dropdown d-lg-flex nav-item-display align-self-stretch overflow-visible align-items-center"><a class=" font-weight-bold pix-nav-link text-heading-default nav-link " target="_self" href="https://sun24-g4kd.onrender.com/home"><span class="pix-dropdown-title text-sm  pix-header-text">Home</span></a></li> -->
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-14799" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14799 nav-item dropdown d-lg-flex nav-item-display align-self-stretch overflow-visible align-items-center"><a class=" font-weight-bold pix-nav-link text-heading-default nav-link " target="_self" href="https://sun24-g4kd.onrender.com/products"><span class="pix-dropdown-title text-sm  pix-header-text">Products</span></a></li>
 <li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-14799" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14799 nav-item dropdown d-lg-flex nav-item-display align-self-stretch overflow-visible align-items-center"><a class=" font-weight-bold pix-nav-link text-heading-default nav-link " target="_self" href="https://sun24-g4kd.onrender.com/about"><span class="pix-dropdown-title text-sm  pix-header-text">About</span></a></li>
 <li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-14799" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14799 nav-item dropdown d-lg-flex nav-item-display align-self-stretch overflow-visible align-items-center"><a class=" font-weight-bold pix-nav-link text-heading-default nav-link " target="_self" href="https://sun24-g4kd.onrender.com/solar_for_home"><span class="pix-dropdown-title text-sm  pix-header-text">Solar For Home</span></a></li>
 <li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-14793" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14793 nav-item dropdown d-lg-flex nav-item-display align-self-stretch overflow-visible align-items-center"><a class=" font-weight-bold pix-nav-link text-heading-default nav-link " target="_self" href="https://sun24-g4kd.onrender.com/solar_for_business"><span class="pix-dropdown-title text-sm  pix-header-text">Solar For Business</span></a></li>
@@ -601,6 +602,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="elementor-widget-container">
 									<p>Cut your dependence on the grid and save money on monthly electricity bills with <strong>Sun24 Solution Green Energy</strong>.</p>								</div>
 				</div>
+				
+<a href="http://127.0.0.1:8000/products" class="primary-btn">View Product</a>
+
 				<div class="elementor-element elementor-element-ea02400 elementor-align-left elementor-widget elementor-widget-button" data-id="ea02400" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 									<!-- <div class="elementor-button-wrapper">
@@ -646,15 +650,80 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		</section> -->
 					</div>
 		</div>
-				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-0b823c7" data-id="0b823c7" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-6c57788 elementor-widget elementor-widget-image" data-id="6c57788" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-															<img loading="lazy" decoding="async" width="640" height="640" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20640%20640'%3E%3C/svg%3E" class="attachment-large size-large wp-image-987654" alt="Home Page ATF" data-lazy-srcset="solariumenergy.in/wp-content/uploads/2024/08/Home-Page-ATF-768x768.png 1024w, solariumenergy.in/wp-content/uploads/2024/08/Home-Page-ATF-768x768.png 300w, solariumenergy.in/wp-content/uploads/2024/08/Home-Page-ATF-768x768.png 150w, solariumenergy.in/wp-content/uploads/2024/08/Home-Page-ATF-768x768.png 768w, solariumenergy.in/wp-content/uploads/2024/08/Home-Page-ATF-768x768.png 400w, solariumenergy.in/wp-content/uploads/2024/08/Home-Page-ATF-768x768.png 75w, solariumenergy.in/wp-content/uploads/2024/08/Home-Page-ATF-768x768.png 460w, solariumenergy.in/wp-content/uploads/2024/08/Home-Page-ATF-768x768.png 1080w" data-lazy-sizes="(max-width: 640px) 100vw, 640px" data-lazy-src="solariumenergy.in/wp-content/uploads/2024/08/Home-Page-ATF-768x768.png"><noscript><img loading="lazy" decoding="async" width="640" height="640" src="solariumenergy.in/wp-content/uploads/2024/08/Home-Page-ATF-768x768.png" class="attachment-large size-large wp-image-987654" alt="Home Page ATF" srcset="solariumenergy.in/wp-content/uploads/2024/08/Home-Page-ATF-768x768.png 1024w, solariumenergy.in/wp-content/uploads/2024/08/Home-Page-ATF-768x768.png 300w, solariumenergy.in/wp-content/uploads/2024/08/Home-Page-ATF-768x768.png 150w, solariumenergy.in/wp-content/uploads/2024/08/Home-Page-ATF-768x768.png 768w, solariumenergy.in/wp-content/uploads/2024/08/Home-Page-ATF-768x768.png 400w, solariumenergy.in/wp-content/uploads/2024/08/Home-Page-ATF-768x768.png 75w, solariumenergy.in/wp-content/uploads/2024/08/Home-Page-ATF-768x768.png 460w, solariumenergy.in/wp-content/uploads/2024/08/Home-Page-ATF-768x768.png 1080w" sizes="(max-width: 640px) 100vw, 640px"></noscript>															</div>
-				</div>
-					</div>
-		</div>
-					</div>
+				 <div class="image-container">
+    <img
+      id="rotatingImage"
+      src="images/img1.png"
+      alt="Home Page ATF"
+      width="640"
+      height="640"
+    />
+  </div>
+
+  <script>
+    // Array of images you want to rotate
+    const images = [
+      "images/img1.png",
+      "images/img2.png",
+      
+    ];
+
+    let currentIndex = 0;
+    const imageElement = document.getElementById("rotatingImage");
+
+    // Function to change image with fade effect
+    function changeImage() {
+      imageElement.style.opacity = 0; // fade out
+
+      setTimeout(() => {
+        currentIndex = (currentIndex + 1) % images.length; // next image
+        imageElement.src = images[currentIndex];
+        imageElement.style.opacity = 1; // fade in
+      }, 800); // duration of fade out
+    }
+
+    // Change image every 3 seconds
+    setInterval(changeImage, 3000);
+  </script>
+  
+  <style>
+	.primary-btn {
+  display: inline-block;
+  background-color: #ffb400; /* orange-yellow tone */
+  color: #fff;
+  padding: 12px 28px;
+  border-radius: 8px;
+  font-size: 16px;
+  font-weight: 600;
+  text-decoration: none; /* remove underline */
+  transition: all 0.3s ease;
+  border: none;
+}
+
+.primary-btn:hover {
+  background-color: #e09e00; /* darker shade on hover */
+  transform: scale(1.05);
+}
+
+    /* Center image in the page */
+    .image-container {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 90vh;
+      background-color: #f8f8f8;
+    }
+
+    /* Image styling */
+    #rotatingImage {
+      width: 640px;
+      height: 640px;
+      border-radius: 12px;
+      object-fit: cover;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+      transition: opacity 0.8s ease-in-out;
+    }
+  </style>
 		</section>
 				<!-- <section class="elementor-section elementor-top-section elementor-element elementor-element-c7a75a6 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="c7a75a6" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
@@ -703,152 +772,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		</div>
 					</div>
 		</section> -->
-				<section
-  class="elementor-section elementor-top-section elementor-element elementor-element-cde5e4f elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-  data-id="cde5e4f"
-  data-element_type="section"
->
-  <div class="elementor-container elementor-column-gap-default">
-    <!-- Left Column -->
-    <div
-      class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-f77e5c1"
-      data-id="f77e5c1"
-      data-element_type="column"
-    >
-      <div class="elementor-widget-wrap elementor-element-populated">
-        <div
-          class="elementor-element elementor-element-8011837 elementor-headline--style-highlight elementor-widget elementor-widget-animated-headline"
-          data-id="8011837"
-          data-element_type="widget"
-        >
-          <div class="elementor-widget-container">
-            <h2 class="elementor-headline">
-              <span class="elementor-headline-plain-text elementor-headline-text-wrapper"
-                >India's</span
-              >
-              <span
-                class="elementor-headline-dynamic-wrapper elementor-headline-text-wrapper"
-              >
-                <span
-                  class="elementor-headline-dynamic-text elementor-headline-text-active"
-                  >Leading</span
-                >
-              </span>
-              <span class="elementor-headline-plain-text elementor-headline-text-wrapper"
-                >Solar Aata Chakki Provider</span
-              >
-            </h2>
-          </div>
-        </div>
-
-        <div
-          class="elementor-element elementor-element-d0aa904 elementor-widget elementor-widget-text-editor"
-          data-id="d0aa904"
-          data-element_type="widget"
-        >
-          <div class="elementor-widget-container">
-            <p>
-              The Solar Aata Chakki is an eco-friendly, energy-efficient
-              solution designed to grind grains into fresh, nutritious flour
-              without relying on conventional electricity. Powered entirely by
-              solar energy, this modern milling machine combines traditional
-              grinding with sustainable technology — making it perfect for rural
-              homes, small businesses, and areas with limited electricity
-              access.
-            </p>
-          </div>
-        </div>
-
-        <div
-          class="elementor-element elementor-element-6adab63 elementor-align-left elementor-widget elementor-widget-button"
-          data-id="6adab63"
-          data-element_type="widget"
-        >
-          <div class="elementor-widget-container">
-            <div class="elementor-button-wrapper">
-              <a
-                class="elementor-button elementor-button-link elementor-size-sm"
-                href="https://sun24-g4kd.onrender.com/about"
-              >
-                <span class="elementor-button-content-wrapper">
-                  <span class="elementor-button-text">About Us</span>
-                </span>
-              </a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <!-- Right Column (Image Slider) -->
-    <div
-      class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-f12714d"
-      data-id="f12714d"
-      data-element_type="column"
-    >
-      <div class="elementor-widget-wrap elementor-element-populated">
-        <div
-          class="elementor-element elementor-element-2f62e76 elementor-widget elementor-widget-image"
-          data-id="2f62e76"
-          data-element_type="widget"
-        >
-          <div class="elementor-widget-container">
-            <div class="image-slider">
-              <img src="images/img1.png" class="active" alt="Solar Aata Chakki 1" />
-              <img src="images/img2.png" alt="Solar Aata Chakki 2" />
-              <img src="images/img3.jfif" alt="Solar Aata Chakki 3" />
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-
-<!-- ===== CSS ===== -->
-<style>
-.image-slider {
-  position: relative;
-  width: 100%;
-  max-width: 640px;
-  height: 480px;
-  overflow: hidden;
-  border-radius: 15px;
-  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
-}
-
-.image-slider img {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  opacity: 0;
-  transition: opacity 1.2s ease-in-out;
-}
-
-.image-slider img.active {
-  opacity: 1;
-}
-</style>
-
-<!-- ===== JavaScript ===== -->
-<script>
-let slideIndex = 0;
-const slides = document.querySelectorAll(".image-slider img");
-const totalSlides = slides.length;
-
-function showNextSlide() {
-  slides[slideIndex].classList.remove("active");
-  slideIndex = (slideIndex + 1) % totalSlides;
-  slides[slideIndex].classList.add("active");
-}
-
-// Change image every 4 seconds
-setInterval(showNextSlide, 4000);
-</script>
-
+				
 				<section class="elementor-section elementor-top-section elementor-element elementor-element-7822b44 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7822b44" data-element_type="section">
 							<div class="elementor-background-overlay"></div>
 							<div class="elementor-container elementor-column-gap-default">
