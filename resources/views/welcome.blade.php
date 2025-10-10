@@ -603,7 +603,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 									<p>Cut your dependence on the grid and save money on monthly electricity bills with <strong>Sun24 Solution Green Energy</strong>.</p>								</div>
 				</div>
 				
-<a href="http://127.0.0.1:8000/products" class="primary-btn">View Product</a>
+<a href="https://sun24-g4kd.onrender.com/products" class="primary-btn">View Product</a>
 
 				<div class="elementor-element elementor-element-ea02400 elementor-align-left elementor-widget elementor-widget-button" data-id="ea02400" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
