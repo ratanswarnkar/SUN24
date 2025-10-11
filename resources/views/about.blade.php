@@ -349,7 +349,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 													<nav data-col="header_1" class="pixfort-header-col flex-1 navbar   pix-main-menu navbar-hover-drop navbar-expand-lg navbar-light ">
 										<div class="slide-in-container d-flex align-items-center">
 			<div class="d-inline-block animate-in slide-in-container" data-anim-type="slide-in-up" style="">
-											<a class="navbar-brand" href="http://127.0.0.1:8000" target="_self" rel="home">
+											<a class="navbar-brand" href="https://sun24-g4kd.onrender.com/" target="_self" rel="home">
 																	<img class="pix-logo" height="70" width="187" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20187%2070'%3E%3C/svg%3E" alt="solariumenergy" style="height:70px;width:auto;" data-lazy-src="solariumenergy.in/wp-content/uploads/2023/05/SOL_Primary@4x.png"><noscript><img class="pix-logo" height="70" width="187" src="solariumenergy.in/wp-content/uploads/2023/05/SOL_Primary@4x.png" alt="solariumenergy" style="height:70px;width:auto;"></noscript>
 																		<img class="pix-logo-scroll" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="Solarium Green Energy" style="height:70px;width:auto;" data-lazy-src="solariumenergy.in/wp-content/uploads/2023/05/SOL_Primary@4x.png"><noscript><img class="pix-logo-scroll" src="solariumenergy.in/wp-content/uploads/2023/05/SOL_Primary@4x.png" alt="Solarium Green Energy" style="height:70px;width:auto;"></noscript>
 																	</a>
