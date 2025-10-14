@@ -51,7 +51,7 @@
 				</div> -->
 					</div>
 		</div>
-				<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-5f65a9a" data-id="5f65a9a" data-element_type="column">
+				<!-- <div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-5f65a9a" data-id="5f65a9a" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
 						<div class="elementor-element elementor-element-c813581 elementor-widget elementor-widget-pix-sliding-text" data-id="c813581" data-element_type="widget" data-widget_type="pix-sliding-text.default">
 				<div class="elementor-widget-container">
@@ -60,7 +60,7 @@
 				<div class="elementor-element elementor-element-285dc57 elementor-widget elementor-widget-pix-button" data-id="285dc57" data-element_type="widget" data-widget_type="pix-button.default">
 				<div class="elementor-widget-container">
 					<a href="" class="btn m-0      text-gray-4 btn-link text-light-opacity-9 d-inline-flex align-items-center no-padding   secondary-font  animate-in btn-lg" data-anim-type="fade-in-up" data-anim-delay="200"><span class=" " >LONGi Solar</span></a>				</div>
-				</div>
+				</div> -->
 				
 				<!-- <div class="elementor-element elementor-element-0da497d elementor-widget elementor-widget-pix-button" data-id="0da497d" data-element_type="widget" data-widget_type="pix-button.default">
 				<div class="elementor-widget-container">
