@@ -333,13 +333,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div data-anim-type="disabled" class="d-inline-block2 d-inline-flex align-items-center line-height-1 pix-header-text pix-py-5 text-sm text-light-opacity-7 font-weight-bold mb-0" style="">
 			<svg class="pixfort-icon text-18 pix-mr-5 pix-header-icon-style" width="24" height="24"  data-name="Line/pixfort-icon-pin-3" viewBox="2 2 20 20"><path fill="none" stroke="var(--pf-icon-color)" stroke-linecap="round" stroke-linejoin="round" stroke-width="var(--pf-icon-stroke-width)" d="M12.773151,20.0802214 C16.257717,15.8490061 18,12.4889323 18,10 C18,7 15.8659932,4 12,4 C8.13400675,4 6,7 6,10 C6,12.4902344 7.74410641,15.852522 11.2323192,20.0868627 L11.2330508,20.0862558 C11.5856754,20.5113138 12.2161118,20.5700327 12.6411698,20.2174081 C12.6901904,20.176741 12.7352135,20.1314836 12.7756256,20.0822526 Z M12,12 C13.1045695,12 14,11.1045695 14,10 C14,8.8954305 13.1045695,8 12,8 C10.8954305,8 10,8.8954305 10,10 C10,11.1045695 10.8954305,12 12,12 Z"/></svg>Ahmedabad, India		</div>
 								</div>
-												<div data-col="topbar_2" class="pixfort-header-col col column  flex-1 pix-header-min-height text-right justify-content-end py-md-0 d-flex align-items-center">
+												<!-- <div data-col="topbar_2" class="pixfort-header-col col column  flex-1 pix-header-min-height text-right justify-content-end py-md-0 d-flex align-items-center">
 										<div class="d-inline-flex align-items-center d-inline-block2 text-sm mb-0">
 			<a data-anim-type="disabled" class="btn btn-custom btn-rounded btn-sm pix-py-10 font-weight-bold d-inline-flex align-items-center mr-0" href="https://sun24solarsolutions.com/contact_us"  style="background:#ff7300;color:#ffffff;" data-popup-id="" data-popup-link="">
 									<span>Get Free Site Survey</span>
 								</a>
 		</div>
-								</div>
+								</div> -->
 									</div>
 							</div>
 					</div>
@@ -425,11 +425,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                         <div data-col="m_stack_1" class="pixfort-header-col  flex-1 d-flex justify-content-between py-2">
                         		<div class="pix-px-5 d-inline-block2 d-inline-flex align-items-between pix-social text-18 " data-anim-type="disabled">
 					</div>
-		<div class="d-inline-flex align-items-center d-inline-block2 text-sm mb-0">
+		<!-- <div class="d-inline-flex align-items-center d-inline-block2 text-sm mb-0">
 			<a data-anim-type="disabled" class="btn btn-secondary btn-sm pix-py-10 font-weight-bold d-inline-flex align-items-center mr-0" href="https://pixfort.website/redirect?to=essentials" target=&quot;_blank&quot; style="" data-popup-id="" data-popup-link="">
 									<span>Join the movement </span>
 								</a>
-		</div>
+		</div> -->
 	                    </div>
                             </div>
                     </div>
