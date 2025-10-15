@@ -34,7 +34,7 @@
 <meta name="twitter:image" content="https://solariumenergy.in/wp-content/uploads/2021/10/WhatsApp-Image-2021-10-01-at-7.58.39-PM-1024x1024.jpeg" />
 <meta name="twitter:label1" content="Time to read" />
 <meta name="twitter:data1" content="3 minutes" />
-<script type="application/ld+json" class="rank-math-schema">{"@context":"https://schema.org","@graph":[{"@type":"Place","@id":"https://solariumenergy.in/#place","address":{"@type":"PostalAddress","streetAddress":"B-1208, World Trade Tower","addressLocality":"Near BMW Showroom, Sarkhej - Gandhinagar Hwy","addressRegion":"Ahmedabad","postalCode":"380051","addressCountry":"India"}},{"@type":"Organization","@id":"https://solariumenergy.in/#organization","name":"Solarium Green Energy Private Limited","url":"https://solariumenergy.in","email":"info@solariumenergy.in","address":{"@type":"PostalAddress","streetAddress":"B-1208, World Trade Tower","addressLocality":"Near BMW Showroom, Sarkhej - Gandhinagar Hwy","addressRegion":"Ahmedabad","postalCode":"380051","addressCountry":"India"},"logo":{"@type":"ImageObject","@id":"https://solariumenergy.in/#logo","url":"https://solariumenergy.in/wp-content/uploads/2022/05/PNG.png","contentUrl":"https://solariumenergy.in/wp-content/uploads/2022/05/PNG.png","caption":"Solarium Green Energy","inLanguage":"en-US","width":"3349","height":"1119"},"contactPoint":[{"@type":"ContactPoint","telephone":"9810301440","contactType":"customer support"}],"location":{"@id":"https://solariumenergy.in/#place"}},{"@type":"WebSite","@id":"https://solariumenergy.in/#website","url":"https://solariumenergy.in","name":"Solarium Green Energy","alternateName":"Solarium Solar","publisher":{"@id":"https://solariumenergy.in/#organization"},"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://solariumenergy.in/wp-content/uploads/2021/10/WhatsApp-Image-2021-10-01-at-7.58.39-PM-1024x1024.jpeg?_t=1758091658","url":"https://solariumenergy.in/wp-content/uploads/2021/10/WhatsApp-Image-2021-10-01-at-7.58.39-PM-1024x1024.jpeg?_t=1758091658","width":"200","height":"200","inLanguage":"en-US"},{"@type":"BreadcrumbList","@id":"https://solariumenergy.in/about-us/#breadcrumb","itemListElement":[{"@type":"ListItem","position":"1","item":{"@id":"https://solariumenergy.in","name":"Home"}},{"@type":"ListItem","position":"2","item":{"@id":"https://solariumenergy.in/about-us/","name":"Contact Us"}}]},{"@type":"WebPage","@id":"https://solariumenergy.in/about-us/#webpage","url":"https://solariumenergy.in/about-us/","name":"About Solarium - India&#039;s Leading Integrated Solar Company","datePublished":"2021-10-13T05:25:17+05:30","dateModified":"2025-09-17T12:17:38+05:30","isPartOf":{"@id":"https://solariumenergy.in/#website"},"primaryImageOfPage":{"@id":"https://solariumenergy.in/wp-content/uploads/2021/10/WhatsApp-Image-2021-10-01-at-7.58.39-PM-1024x1024.jpeg?_t=1758091658"},"inLanguage":"en-US","breadcrumb":{"@id":"https://solariumenergy.in/about-us/#breadcrumb"}},{"@type":"Person","@id":"https://solariumenergy.in/author/admin/","name":"admin","url":"https://solariumenergy.in/author/admin/","image":{"@type":"ImageObject","@id":"https://secure.gravatar.com/avatar/d6f640ec92822213e4e8cbb16b775aee7b3530080007531cf41653ff9e5eca03?s=96&amp;d=mm&amp;r=g","url":"https://secure.gravatar.com/avatar/d6f640ec92822213e4e8cbb16b775aee7b3530080007531cf41653ff9e5eca03?s=96&amp;d=mm&amp;r=g","caption":"admin","inLanguage":"en-US"},"worksFor":{"@id":"https://solariumenergy.in/#organization"}},{"@type":"Article","headline":"Contact SUN24 Solution - India&#039;s Leading Integrated Solar Company","keywords":"solar rooftop company","datePublished":"2021-10-13T05:25:17+05:30","dateModified":"2025-09-17T12:17:38+05:30","author":{"@id":"https://solariumenergy.in/author/admin/","name":"admin"},"publisher":{"@id":"https://solariumenergy.in/#organization"},"description":"Founded in 2018 by IIT/ISM alumnus Ankit Garg, Solarium is India&#039;s leading solar rooftop company for residential, commercial, and govt sectors.","name":" Solarium - India&#039;s Leading Integrated Solar Company","@id":"https://solariumenergy.in/about-us/#richSnippet","isPartOf":{"@id":"https://solariumenergy.in/about-us/#webpage"},"image":{"@id":"https://solariumenergy.in/wp-content/uploads/2021/10/WhatsApp-Image-2021-10-01-at-7.58.39-PM-1024x1024.jpeg?_t=1758091658"},"inLanguage":"en-US","mainEntityOfPage":{"@id":"https://solariumenergy.in/about-us/#webpage"}}]}</script>
+<script type="application/ld+json" class="rank-math-schema">{"@context":"https://schema.org","@graph":[{"@type":"Place","@id":"https://solariumenergy.in/#place","address":{"@type":"PostalAddress","streetAddress":"B-1208, World Trade Tower","addressLocality":"Near BMW Showroom, Sarkhej - Gandhinagar Hwy","addressRegion":"Noida","postalCode":"380051","addressCountry":"India"}},{"@type":"Organization","@id":"https://solariumenergy.in/#organization","name":"Solarium Green Energy Private Limited","url":"https://solariumenergy.in","email":"info@solariumenergy.in","address":{"@type":"PostalAddress","streetAddress":"B-1208, World Trade Tower","addressLocality":"Near BMW Showroom, Sarkhej - Gandhinagar Hwy","addressRegion":"Noida","postalCode":"380051","addressCountry":"India"},"logo":{"@type":"ImageObject","@id":"https://solariumenergy.in/#logo","url":"https://solariumenergy.in/wp-content/uploads/2022/05/PNG.png","contentUrl":"https://solariumenergy.in/wp-content/uploads/2022/05/PNG.png","caption":"Solarium Green Energy","inLanguage":"en-US","width":"3349","height":"1119"},"contactPoint":[{"@type":"ContactPoint","telephone":"9555872224","contactType":"customer support"}],"location":{"@id":"https://solariumenergy.in/#place"}},{"@type":"WebSite","@id":"https://solariumenergy.in/#website","url":"https://solariumenergy.in","name":"Solarium Green Energy","alternateName":"Solarium Solar","publisher":{"@id":"https://solariumenergy.in/#organization"},"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://solariumenergy.in/wp-content/uploads/2021/10/WhatsApp-Image-2021-10-01-at-7.58.39-PM-1024x1024.jpeg?_t=1758091658","url":"https://solariumenergy.in/wp-content/uploads/2021/10/WhatsApp-Image-2021-10-01-at-7.58.39-PM-1024x1024.jpeg?_t=1758091658","width":"200","height":"200","inLanguage":"en-US"},{"@type":"BreadcrumbList","@id":"https://solariumenergy.in/about-us/#breadcrumb","itemListElement":[{"@type":"ListItem","position":"1","item":{"@id":"https://solariumenergy.in","name":"Home"}},{"@type":"ListItem","position":"2","item":{"@id":"https://solariumenergy.in/about-us/","name":"Contact Us"}}]},{"@type":"WebPage","@id":"https://solariumenergy.in/about-us/#webpage","url":"https://solariumenergy.in/about-us/","name":"About Solarium - India&#039;s Leading Integrated Solar Company","datePublished":"2021-10-13T05:25:17+05:30","dateModified":"2025-09-17T12:17:38+05:30","isPartOf":{"@id":"https://solariumenergy.in/#website"},"primaryImageOfPage":{"@id":"https://solariumenergy.in/wp-content/uploads/2021/10/WhatsApp-Image-2021-10-01-at-7.58.39-PM-1024x1024.jpeg?_t=1758091658"},"inLanguage":"en-US","breadcrumb":{"@id":"https://solariumenergy.in/about-us/#breadcrumb"}},{"@type":"Person","@id":"https://solariumenergy.in/author/admin/","name":"admin","url":"https://solariumenergy.in/author/admin/","image":{"@type":"ImageObject","@id":"https://secure.gravatar.com/avatar/d6f640ec92822213e4e8cbb16b775aee7b3530080007531cf41653ff9e5eca03?s=96&amp;d=mm&amp;r=g","url":"https://secure.gravatar.com/avatar/d6f640ec92822213e4e8cbb16b775aee7b3530080007531cf41653ff9e5eca03?s=96&amp;d=mm&amp;r=g","caption":"admin","inLanguage":"en-US"},"worksFor":{"@id":"https://solariumenergy.in/#organization"}},{"@type":"Article","headline":"Contact SUN24 Solution - India&#039;s Leading Integrated Solar Company","keywords":"solar rooftop company","datePublished":"2021-10-13T05:25:17+05:30","dateModified":"2025-09-17T12:17:38+05:30","author":{"@id":"https://solariumenergy.in/author/admin/","name":"admin"},"publisher":{"@id":"https://solariumenergy.in/#organization"},"description":"Founded in 2018 by IIT/ISM alumnus Ankit Garg, Solarium is India&#039;s leading solar rooftop company for residential, commercial, and govt sectors.","name":" Solarium - India&#039;s Leading Integrated Solar Company","@id":"https://solariumenergy.in/about-us/#richSnippet","isPartOf":{"@id":"https://solariumenergy.in/about-us/#webpage"},"image":{"@id":"https://solariumenergy.in/wp-content/uploads/2021/10/WhatsApp-Image-2021-10-01-at-7.58.39-PM-1024x1024.jpeg?_t=1758091658"},"inLanguage":"en-US","mainEntityOfPage":{"@id":"https://solariumenergy.in/about-us/#webpage"}}]}</script>
 <!-- /Rank Math WordPress SEO plugin -->
 
 
@@ -327,19 +327,19 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div class="container">
 				<div class="pix-row d-flex align-items-center align-items-stretch">
 												<div data-col="topbar_1" class="pixfort-header-col col column  flex-1 pix-header-min-height text-left justify-content-start py-md-0 d-flex align-items-center">
-										<a data-anim-type="disabled" href="tel:9810301440" class="pix-header-phone text-sm d-inline-block2 pix-header-text d-inline-flex align-items-center pix-py-5 text-light-opacity-7 font-weight-bold mb-0" style="">
-			<svg class="pixfort-icon text-18 pix-mr-5 pix-header-icon-style" width="24" height="24"  data-name="Line/pixfort-icon-telephone-1" viewBox="2 2 20 20"><path fill="none" stroke="var(--pf-icon-color)" stroke-linecap="round" stroke-linejoin="round" stroke-width="var(--pf-icon-stroke-width)" d="M18.8832522,15.2149875 L16.6435199,14.9557395 C16.063686,14.888624 15.4834673,15.0781662 15.0550765,15.474642 L13.9101291,16.5342913 L13.9101291,16.5342913 C11.0247673,15.2272362 8.65046344,13.0476406 7.32012905,9.94429134 L8.40498315,8.93981673 C8.87321964,8.50627302 9.10646531,7.87531619 9.03281655,7.24145388 L8.78582632,5.11571837 C8.65834351,4.01853018 7.6655515,3.23242866 6.56836332,3.35991148 C6.52669972,3.36475239 6.48519872,3.37090276 6.44392189,3.37835345 L4.03181843,3.81375119 C3.42678981,3.92293172 2.99622204,4.46337942 3.02497102,5.07750767 C3.02497102,5.07750767 3.02497102,5.07750767 3.02497102,5.07750767 C3.46000713,14.3706349 9.54976692,20.5603505 18.9740596,20.9775141 C18.9740596,20.9775141 18.9740596,20.9775141 18.9740596,20.9775141 C19.5592738,21.0034184 20.0735032,20.5926686 20.177581,20.0162014 L20.6214816,17.5569921 C20.8176915,16.4699892 20.095561,15.4297396 19.0085581,15.2335297 C18.9669957,15.2260274 18.9252062,15.2198436 18.8832522,15.2149875 Z"/></svg>9810301440		</a>
+										<a data-anim-type="disabled" href="tel:9555872224" class="pix-header-phone text-sm d-inline-block2 pix-header-text d-inline-flex align-items-center pix-py-5 text-light-opacity-7 font-weight-bold mb-0" style="">
+			<svg class="pixfort-icon text-18 pix-mr-5 pix-header-icon-style" width="24" height="24"  data-name="Line/pixfort-icon-telephone-1" viewBox="2 2 20 20"><path fill="none" stroke="var(--pf-icon-color)" stroke-linecap="round" stroke-linejoin="round" stroke-width="var(--pf-icon-stroke-width)" d="M18.8832522,15.2149875 L16.6435199,14.9557395 C16.063686,14.888624 15.4834673,15.0781662 15.0550765,15.474642 L13.9101291,16.5342913 L13.9101291,16.5342913 C11.0247673,15.2272362 8.65046344,13.0476406 7.32012905,9.94429134 L8.40498315,8.93981673 C8.87321964,8.50627302 9.10646531,7.87531619 9.03281655,7.24145388 L8.78582632,5.11571837 C8.65834351,4.01853018 7.6655515,3.23242866 6.56836332,3.35991148 C6.52669972,3.36475239 6.48519872,3.37090276 6.44392189,3.37835345 L4.03181843,3.81375119 C3.42678981,3.92293172 2.99622204,4.46337942 3.02497102,5.07750767 C3.02497102,5.07750767 3.02497102,5.07750767 3.02497102,5.07750767 C3.46000713,14.3706349 9.54976692,20.5603505 18.9740596,20.9775141 C18.9740596,20.9775141 18.9740596,20.9775141 18.9740596,20.9775141 C19.5592738,21.0034184 20.0735032,20.5926686 20.177581,20.0162014 L20.6214816,17.5569921 C20.8176915,16.4699892 20.095561,15.4297396 19.0085581,15.2335297 C18.9669957,15.2260274 18.9252062,15.2198436 18.8832522,15.2149875 Z"/></svg>9555872224		</a>
 			<span class="mx-2"></span>
 			<div data-anim-type="disabled" class="d-inline-block2 d-inline-flex align-items-center line-height-1 pix-header-text pix-py-5 text-sm text-light-opacity-7 font-weight-bold mb-0" style="">
-			<svg class="pixfort-icon text-18 pix-mr-5 pix-header-icon-style" width="24" height="24"  data-name="Line/pixfort-icon-pin-3" viewBox="2 2 20 20"><path fill="none" stroke="var(--pf-icon-color)" stroke-linecap="round" stroke-linejoin="round" stroke-width="var(--pf-icon-stroke-width)" d="M12.773151,20.0802214 C16.257717,15.8490061 18,12.4889323 18,10 C18,7 15.8659932,4 12,4 C8.13400675,4 6,7 6,10 C6,12.4902344 7.74410641,15.852522 11.2323192,20.0868627 L11.2330508,20.0862558 C11.5856754,20.5113138 12.2161118,20.5700327 12.6411698,20.2174081 C12.6901904,20.176741 12.7352135,20.1314836 12.7756256,20.0822526 Z M12,12 C13.1045695,12 14,11.1045695 14,10 C14,8.8954305 13.1045695,8 12,8 C10.8954305,8 10,8.8954305 10,10 C10,11.1045695 10.8954305,12 12,12 Z"/></svg>Ahmedabad, India		</div>
+			<svg class="pixfort-icon text-18 pix-mr-5 pix-header-icon-style" width="24" height="24"  data-name="Line/pixfort-icon-pin-3" viewBox="2 2 20 20"><path fill="none" stroke="var(--pf-icon-color)" stroke-linecap="round" stroke-linejoin="round" stroke-width="var(--pf-icon-stroke-width)" d="M12.773151,20.0802214 C16.257717,15.8490061 18,12.4889323 18,10 C18,7 15.8659932,4 12,4 C8.13400675,4 6,7 6,10 C6,12.4902344 7.74410641,15.852522 11.2323192,20.0868627 L11.2330508,20.0862558 C11.5856754,20.5113138 12.2161118,20.5700327 12.6411698,20.2174081 C12.6901904,20.176741 12.7352135,20.1314836 12.7756256,20.0822526 Z M12,12 C13.1045695,12 14,11.1045695 14,10 C14,8.8954305 13.1045695,8 12,8 C10.8954305,8 10,8.8954305 10,10 C10,11.1045695 10.8954305,12 12,12 Z"/></svg>Noida, India		</div>
 								</div>
-												<div data-col="topbar_2" class="pixfort-header-col col column  flex-1 pix-header-min-height text-right justify-content-end py-md-0 d-flex align-items-center">
+												<!-- <div data-col="topbar_2" class="pixfort-header-col col column  flex-1 pix-header-min-height text-right justify-content-end py-md-0 d-flex align-items-center">
 										<div class="d-inline-flex align-items-center d-inline-block2 text-sm mb-0">
 			<a data-anim-type="disabled" class="btn btn-custom btn-rounded btn-sm pix-py-10 font-weight-bold d-inline-flex align-items-center mr-0" href="https://sun24solarsolutions.com/contact_us"  style="background:#ff7300;color:#ffffff;" data-popup-id="" data-popup-link="">
 									<span>Get Free Site Survey</span>
 								</a>
 		</div>
-								</div>
+								</div> -->
 									</div>
 							</div>
 					</div>
@@ -424,12 +424,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                         <div data-col="m_topbar_1" class="pixfort-header-col  flex-1 d-flex justify-content-between py-2">
                         		<span class="mx-1"></span>
 			<div data-anim-type="disabled" class="d-inline-block2 d-inline-flex align-items-center line-height-1 pix-header-text pix-py-5 text-sm text-light-opacity-7 font-weight-bold mb-0" style="">
-			<svg class="pixfort-icon text-18 pix-mr-5 pix-header-icon-style" width="24" height="24"  data-name="Line/pixfort-icon-pin-3" viewBox="2 2 20 20"><path fill="none" stroke="var(--pf-icon-color)" stroke-linecap="round" stroke-linejoin="round" stroke-width="var(--pf-icon-stroke-width)" d="M12.773151,20.0802214 C16.257717,15.8490061 18,12.4889323 18,10 C18,7 15.8659932,4 12,4 C8.13400675,4 6,7 6,10 C6,12.4902344 7.74410641,15.852522 11.2323192,20.0868627 L11.2330508,20.0862558 C11.5856754,20.5113138 12.2161118,20.5700327 12.6411698,20.2174081 C12.6901904,20.176741 12.7352135,20.1314836 12.7756256,20.0822526 Z M12,12 C13.1045695,12 14,11.1045695 14,10 C14,8.8954305 13.1045695,8 12,8 C10.8954305,8 10,8.8954305 10,10 C10,11.1045695 10.8954305,12 12,12 Z"/></svg>Ahmedabad, India		</div>
+			<svg class="pixfort-icon text-18 pix-mr-5 pix-header-icon-style" width="24" height="24"  data-name="Line/pixfort-icon-pin-3" viewBox="2 2 20 20"><path fill="none" stroke="var(--pf-icon-color)" stroke-linecap="round" stroke-linejoin="round" stroke-width="var(--pf-icon-stroke-width)" d="M12.773151,20.0802214 C16.257717,15.8490061 18,12.4889323 18,10 C18,7 15.8659932,4 12,4 C8.13400675,4 6,7 6,10 C6,12.4902344 7.74410641,15.852522 11.2323192,20.0868627 L11.2330508,20.0862558 C11.5856754,20.5113138 12.2161118,20.5700327 12.6411698,20.2174081 C12.6901904,20.176741 12.7352135,20.1314836 12.7756256,20.0822526 Z M12,12 C13.1045695,12 14,11.1045695 14,10 C14,8.8954305 13.1045695,8 12,8 C10.8954305,8 10,8.8954305 10,10 C10,11.1045695 10.8954305,12 12,12 Z"/></svg>Noida, India		</div>
 			<div class="d-inline-flex pix-px-5 align-self-stretch position-relative mx-2">
 			<div class="bg-light-opacity-2 pix-header-divider  " data-color="light-opacity-2" data-scroll-color=""></div>
 					</div>
-				<a data-anim-type="disabled" href="tel:1800123160160" class="pix-header-phone text-sm d-inline-block2 pix-header-text d-inline-flex align-items-center pix-py-5 text-light-opacity-7 font-weight-bold mb-0" style="">
-			<svg class="pixfort-icon text-18 pix-mr-5 pix-header-icon-style" width="24" height="24"  data-name="Line/pixfort-icon-telephone-1" viewBox="2 2 20 20"><path fill="none" stroke="var(--pf-icon-color)" stroke-linecap="round" stroke-linejoin="round" stroke-width="var(--pf-icon-stroke-width)" d="M18.8832522,15.2149875 L16.6435199,14.9557395 C16.063686,14.888624 15.4834673,15.0781662 15.0550765,15.474642 L13.9101291,16.5342913 L13.9101291,16.5342913 C11.0247673,15.2272362 8.65046344,13.0476406 7.32012905,9.94429134 L8.40498315,8.93981673 C8.87321964,8.50627302 9.10646531,7.87531619 9.03281655,7.24145388 L8.78582632,5.11571837 C8.65834351,4.01853018 7.6655515,3.23242866 6.56836332,3.35991148 C6.52669972,3.36475239 6.48519872,3.37090276 6.44392189,3.37835345 L4.03181843,3.81375119 C3.42678981,3.92293172 2.99622204,4.46337942 3.02497102,5.07750767 C3.02497102,5.07750767 3.02497102,5.07750767 3.02497102,5.07750767 C3.46000713,14.3706349 9.54976692,20.5603505 18.9740596,20.9775141 C18.9740596,20.9775141 18.9740596,20.9775141 18.9740596,20.9775141 C19.5592738,21.0034184 20.0735032,20.5926686 20.177581,20.0162014 L20.6214816,17.5569921 C20.8176915,16.4699892 20.095561,15.4297396 19.0085581,15.2335297 C18.9669957,15.2260274 18.9252062,15.2198436 18.8832522,15.2149875 Z"/></svg>1800123160160		</a>
+				<a data-anim-type="disabled" href="tel:9555872224" class="pix-header-phone text-sm d-inline-block2 pix-header-text d-inline-flex align-items-center pix-py-5 text-light-opacity-7 font-weight-bold mb-0" style="">
+			<svg class="pixfort-icon text-18 pix-mr-5 pix-header-icon-style" width="24" height="24"  data-name="Line/pixfort-icon-telephone-1" viewBox="2 2 20 20"><path fill="none" stroke="var(--pf-icon-color)" stroke-linecap="round" stroke-linejoin="round" stroke-width="var(--pf-icon-stroke-width)" d="M18.8832522,15.2149875 L16.6435199,14.9557395 C16.063686,14.888624 15.4834673,15.0781662 15.0550765,15.474642 L13.9101291,16.5342913 L13.9101291,16.5342913 C11.0247673,15.2272362 8.65046344,13.0476406 7.32012905,9.94429134 L8.40498315,8.93981673 C8.87321964,8.50627302 9.10646531,7.87531619 9.03281655,7.24145388 L8.78582632,5.11571837 C8.65834351,4.01853018 7.6655515,3.23242866 6.56836332,3.35991148 C6.52669972,3.36475239 6.48519872,3.37090276 6.44392189,3.37835345 L4.03181843,3.81375119 C3.42678981,3.92293172 2.99622204,4.46337942 3.02497102,5.07750767 C3.02497102,5.07750767 3.02497102,5.07750767 3.02497102,5.07750767 C3.46000713,14.3706349 9.54976692,20.5603505 18.9740596,20.9775141 C18.9740596,20.9775141 18.9740596,20.9775141 18.9740596,20.9775141 C19.5592738,21.0034184 20.0735032,20.5926686 20.177581,20.0162014 L20.6214816,17.5569921 C20.8176915,16.4699892 20.095561,15.4297396 19.0085581,15.2335297 C18.9669957,15.2260274 18.9252062,15.2198436 18.8832522,15.2149875 Z"/></svg>9555872224		</a>
 			<span class="mx-2"></span>
 	                    </div>
                             </div>
@@ -515,7 +515,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </div>
 </div> -->
 </li>
-<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-14800 nav-item dropdown d-lg-flex nav-item-display align-self-stretch overflow-visible align-items-center"><a class=" font-weight-bold pix-nav-link text-body-default dropdown-toggle nav-link animate-in" target="_self" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" data-anim-type="fade-in" id="m-menu-item-dropdown-14800"><span class="pix-dropdown-title text-sm  pix-header-text">Let&#8217;s Connect<svg class="pixfort-icon pixfort-dropdown-arrow d-none" width="24" height="24"  data-name="Line/pixfort-icon-arrow-bottom-2" viewBox="2 2 20 20"><polyline fill="none" stroke="var(--pf-icon-color)" stroke-linecap="round" stroke-linejoin="round" stroke-width="var(--pf-icon-stroke-width)" points="7 9.5 12 14.5 17 9.5"/></svg></span></a>
+<!-- <li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-14800 nav-item dropdown d-lg-flex nav-item-display align-self-stretch overflow-visible align-items-center"><a class=" font-weight-bold pix-nav-link text-body-default dropdown-toggle nav-link animate-in" target="_self" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" data-anim-type="fade-in" id="m-menu-item-dropdown-14800"><span class="pix-dropdown-title text-sm  pix-header-text">Let&#8217;s Connect<svg class="pixfort-icon pixfort-dropdown-arrow d-none" width="24" height="24"  data-name="Line/pixfort-icon-arrow-bottom-2" viewBox="2 2 20 20"><polyline fill="none" stroke="var(--pf-icon-color)" stroke-linecap="round" stroke-linejoin="round" stroke-width="var(--pf-icon-stroke-width)" points="7 9.5 12 14.5 17 9.5"/></svg></span></a>
 <div class="dropdown-menu"  aria-labelledby="m-menu-item-dropdown-14800" role="navigation">
 <div class="submenu-box pix-default-menu bg-white"><div class="container">	<div itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14801 nav-item dropdown d-lg-flex nav-item-display align-self-stretch overflow-visible align-items-center w-100"><a class=" font-weight-bold pix-nav-link  dropdown-item" target="_self" href="https://solariumenergy.in/contact-us/"><span class="pix-dropdown-title  text-body-default  font-weight-bold">Contact Us</span></a></div>
 	<div itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14802 nav-item dropdown d-lg-flex nav-item-display align-self-stretch overflow-visible align-items-center w-100"><a class=" font-weight-bold pix-nav-link  dropdown-item" target="_self" rel="httpssolariumenergyinproto-career-with-us" href="https://solariumenergy.in/work-with-us/"><span class="pix-dropdown-title  text-body-default  font-weight-bold">Career With Us</span></a></div>
@@ -524,7 +524,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </div>
 </div>
 </div>
-</li>
+</li> -->
 </ul></div>                    </nav>
                             </div>
                     </header>
@@ -534,11 +534,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                         <div data-col="m_stack_1" class="pixfort-header-col  flex-1 d-flex justify-content-between py-2">
                         		<div class="pix-px-5 d-inline-block2 d-inline-flex align-items-between pix-social text-18 " data-anim-type="disabled">
 					</div>
-		<div class="d-inline-flex align-items-center d-inline-block2 text-sm mb-0">
+		<!-- <div class="d-inline-flex align-items-center d-inline-block2 text-sm mb-0">
 			<a data-anim-type="disabled" class="btn btn-secondary btn-sm pix-py-10 font-weight-bold d-inline-flex align-items-center mr-0" href="https://pixfort.website/redirect?to=essentials" target=&quot;_blank&quot; style="" data-popup-id="" data-popup-link="">
 									<span>Join the movement </span>
 								</a>
-		</div>
+		</div> -->
 	                    </div>
                             </div>
                     </div>
@@ -635,128 +635,119 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		</section> -->
 				<!-- About SUN24 Solution Section -->
 
-<section id="contact" style="padding: 50px 0; background: #f5f7fa;">
-    <div class="container">
-        <div class="form-wrapper">
-            <h2>Contact Us</h2>
-            <form action="send_email.php" method="POST" class="contact-form">
-                <label for="name">Name:</label>
-                <input type="text" id="name" name="name" placeholder="Your Name" required>
+<section id="contact" style="padding: 80px 0; background: #f5f7fa;">
+  <div class="container" style="max-width: 900px; margin: auto; text-align: center;">
+    <h2 style="color: #0078d4; font-size: 32px; margin-bottom: 10px;">Contact Us</h2>
+    <p style="color: #555; font-size: 18px; margin-bottom: 40px;">
+      Have questions about our Solar Power Plant, Heat Pump, or Water Treatment solutions?<br>
+      Get in touch — we’d love to help you.
+    </p>
 
-                <label for="email">Email:</label>
-                <input type="email" id="email" name="email" placeholder="Your Email" required>
+    <form id="contactForm" action="https://formspree.io/f/mgvnpykq" method="POST"
+      style="background: #fff; padding: 40px; border-radius: 16px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
+      
+      <div class="form-grid">
+        <input type="text" name="name" placeholder="Your Name" required>
+        <input type="email" name="email" placeholder="Your Email" required>
+        <input type="tel" name="phone" placeholder="Your Phone Number" required>
+        <select name="product" required>
+          <option value="">Select Product</option>
+          <option value="Solar Power Plant">Solar Power Plant</option>
+          <option value="Heat Pump">Heat Pump</option>
+          <option value="Water Treatment">Water Treatment</option>
+        </select>
+      </div>
 
-                <label for="message">Message:</label>
-                <textarea id="message" name="message" placeholder="Your Message" required></textarea>
+      <!-- <textarea name="message" rows="5" placeholder="Your Message..." required></textarea> -->
+      
+      <button type="submit">Send Message</button>
 
-                <button type="submit">Send Message</button>
-            </form>
-        </div>
-    </div>
+      <p id="successMessage">✅ Thank you! Your message has been sent successfully.</p>
+    </form>
+  </div>
 </section>
 
 <style>
-.container {
-    max-width: 800px;
-    margin: auto;
-    padding: 0 20px;
-}
-
-.form-wrapper {
-    background: white;
-    padding: 30px;
-    border-radius: 10px;
-    box-shadow: 0px 10px 20px rgba(0,0,0,0.1);
-}
-
-.form-wrapper h2 {
-    text-align: center;
-    color: #333;
-    margin-bottom: 20px;
-    font-size: 28px;
-}
-
-.contact-form label {
-    display: block;
-    margin-bottom: 5px;
-    font-weight: bold;
-    color: #555;
-}
-
-.contact-form input,
-.contact-form textarea {
+ #contact form input,
+  #contact form select,
+  #contact form textarea {
     width: 100%;
     padding: 12px;
-    margin-bottom: 15px;
     border: 1px solid #ccc;
-    border-radius: 5px;
+    border-radius: 8px;
     font-size: 16px;
-    transition: border-color 0.3s;
-}
+    margin-bottom: 20px;
+  }
 
-.contact-form input:focus,
-.contact-form textarea:focus {
-    border-color: #007BFF;
-    outline: none;
-}
-
-.contact-form textarea {
-    min-height: 120px;
-    resize: none;
-}
-
-.contact-form button {
-    background: #007BFF;
-    color: white;
+  #contact form button {
+    background: #0078d4;
+    color: #fff;
     border: none;
-    padding: 15px;
-    width: 100%;
+    padding: 14px 25px;
     font-size: 16px;
-    border-radius: 5px;
+    border-radius: 8px;
     cursor: pointer;
     transition: background 0.3s ease;
-}
+  }
 
-.contact-form button:hover {
-    background: #0056b3;
-}
+  #contact form button:hover {
+    background: #005fa3;
+  }
+
+  #successMessage {
+    display: none;
+    color: green;
+    font-weight: 600;
+    margin-top: 15px;
+  }
+
+  /* Grid layout for desktop */
+  .form-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+  }
+
+  /* Responsive for mobile screens */
+  @media (max-width: 768px) {
+    .form-grid {
+      grid-template-columns: 1fr;
+    }
+
+    #contact form {
+      padding: 25px;
+    }
+
+    #contact h2 {
+      font-size: 28px;
+    }
+  }
 </style>
-
-<!-- SweetAlert2 -->
-<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
-<!-- jQuery -->
-<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 
 
 <script>
-$(document).ready(function(){
-    $("#contactForm").submit(function(e){
-        e.preventDefault(); // prevent default form submission
+  const contactForm = document.getElementById("contactForm");
+  const successMessage = document.getElementById("successMessage");
 
-        $.ajax({
-            url: "send_email.php",
-            type: "POST",
-            data: $("#contactForm").serialize(),
-            success: function(response){
-                Swal.fire({
-                    icon: 'success',
-                    title: 'Sent!',
-                    text: 'Your message has been sent successfully.',
-                    confirmButtonColor: '#007BFF'
-                });
-                $("#contactForm")[0].reset(); // reset form
-            },
-            error: function(){
-                Swal.fire({
-                    icon: 'error',
-                    title: 'Oops...',
-                    text: 'Something went wrong. Please try again.',
-                    confirmButtonColor: '#FF0000'
-                });
-            }
-        });
-    });
-});
+  contactForm.addEventListener("submit", async function (event) {
+    event.preventDefault();
+    const formData = new FormData(contactForm);
+    try {
+      const response = await fetch(contactForm.action, {
+        method: "POST",
+        body: formData,
+        headers: { 'Accept': 'application/json' }
+      });
+      if (response.ok) {
+        successMessage.style.display = "block";
+        contactForm.reset();
+      } else {
+        alert("Something went wrong. Please try again.");
+      }
+    } catch (error) {
+      alert("Error: " + error.message);
+    }
+  });
 </script>
 
 
