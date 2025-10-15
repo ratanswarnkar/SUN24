@@ -717,7 +717,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     /* Image styling */
     #rotatingImage {
       width: 640px;
-      height: 640px;
+      
       border-radius: 12px;
       object-fit: cover;
       box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
