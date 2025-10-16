@@ -100,7 +100,7 @@
 
 				
 									<p class="elementor-icon-box-description">
-						98103 01440,			</p>
+						9810301440,			</p>
 				
 			</div>
 
@@ -108,7 +108,7 @@
 
 				
 									<p class="elementor-icon-box-description">
-						95558 72224				</p>
+						9555872224				</p>
 				
 			</div>
 			
@@ -176,7 +176,7 @@
 					</div>
 		</section>
 		<!-- WhatsApp Floating Button -->
-<a href="https://wa.me/919810301440" target="_blank" class="whatsapp-float">
+<a href="https://wa.me/919555872224" target="_blank" class="whatsapp-float">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" />
 </a>
 <style>
