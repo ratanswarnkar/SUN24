@@ -635,22 +635,21 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		</section> -->
 				<!-- About SUN24 Solution Section -->
 
-<section id="contact" style="padding: 80px 0; background: #f5f7fa;">
-  <div class="container" style="max-width: 900px; margin: auto; text-align: center;">
-    <h2 style="color: #0078d4; font-size: 32px; margin-bottom: 10px;">Contact Us</h2>
-    <p style="color: #555; font-size: 18px; margin-bottom: 40px;">
-      Have questions about our Solar Power Plant, Heat Pump, or Water Treatment solutions?<br>
-      Get in touch — we’d love to help you.
-    </p>
+ <!-- ✅ Added Address & Phone -->
+    <div style="color: #333; font-size: 17px; margin-bottom: 40px; line-height: 1.8;">
+      <strong>📍 Address:</strong> T-3, A802, NX One, Tech Zone-IV, Greator Noida West, U.P. - 201306<br>
+      <strong>📞 Phone:</strong> <a href="tel:+919555872224" style="color: #0078d4; text-decoration: none;">+91 9555872224</a><br>
+      <strong>✉️ Email:</strong> <a href="mailto:info@sun24solarsolutions.com" style="color: #0078d4; text-decoration: none;">info@sun24solarsolutions.com</a>
+    </div>
 
-    <form id="contactForm" action="https://formspree.io/f/mgvnpykq" method="POST"
+    <form id="contactForm" action="https://formspree.io/f/mgvpgzyl" method="POST"
       style="background: #fff; padding: 40px; border-radius: 16px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
       
-      <div class="form-grid">
-        <input type="text" name="name" placeholder="Your Name" required>
-        <input type="email" name="email" placeholder="Your Email" required>
-        <input type="tel" name="phone" placeholder="Your Phone Number" required>
-        <select name="product" required>
+      <div class="form-grid" style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin-bottom: 20px;">
+        <input type="text" name="name" placeholder="Your Name" required style="padding: 12px; border: 1px solid #ccc; border-radius: 8px;">
+        <input type="email" name="email" placeholder="Your Email" required style="padding: 12px; border: 1px solid #ccc; border-radius: 8px;">
+        <input type="tel" name="phone" placeholder="Your Phone Number" required style="padding: 12px; border: 1px solid #ccc; border-radius: 8px;">
+        <select name="product" required style="padding: 12px; border: 1px solid #ccc; border-radius: 8px;">
           <option value="">Select Product</option>
           <option value="Solar Power Plant">Solar Power Plant</option>
           <option value="Heat Pump">Heat Pump</option>
@@ -660,9 +659,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
       <!-- <textarea name="message" rows="5" placeholder="Your Message..." required></textarea> -->
       
-      <button type="submit">Send Message</button>
+      <button type="submit" style="background-color: #0078d4; color: white; padding: 12px 30px; border: none; border-radius: 8px; font-size: 16px; cursor: pointer;">
+        Send Message
+      </button>
 
-      <p id="successMessage">✅ Thank you! Your message has been sent successfully.</p>
+      <p id="successMessage" style="display:none; color: green; margin-top: 20px;">
+        ✅ Thank you! Your message has been sent successfully.
+      </p>
     </form>
   </div>
 </section>
