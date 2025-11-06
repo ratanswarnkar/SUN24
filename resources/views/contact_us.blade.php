@@ -634,7 +634,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					</div>
 		</section> -->
 				<!-- About SUN24 Solution Section -->
-
+<section id="contact" style="padding: 80px 0; background: #f5f7fa;">
+  <div class="container" style="max-width: 900px; margin: auto; text-align: center;">
+    <h2 style="color: #0078d4; font-size: 32px; margin-bottom: 10px;">Contact Us</h2>
+    <p style="color: #555; font-size: 18px; margin-bottom: 10px;">
+      Have questions about our Solar Power Plant, Heat Pump, or Water Treatment solutions?<br>
+      Get in touch — we’d love to help you.
+    </p>
  <!-- ✅ Added Address & Phone -->
     <div style="color: #333; font-size: 17px; margin-bottom: 40px; line-height: 1.8;">
       <strong>📍 Address:</strong> T-3, A802, NX One, Tech Zone-IV, Greator Noida West, U.P. - 201306<br>
